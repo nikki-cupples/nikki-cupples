@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @nikki-cupples
 - 👀 I’m interested in human centered design
 - 🌱 I’m currently learning how to be a software engineer 
-- 💞️ I’m looking to collaborate at Dev Academy
-- 📫 You can reach me on linkedin.com/in/nikkicupples/
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a fashion degree!
 
 <!---
