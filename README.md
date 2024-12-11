@@ -1,5 +1,5 @@
 - 💖 Hi, I’m @nikki-cupples
-- 💻 I’m a full-stack software engineer 
+- 💻 I’m a full-stack software developer 
 - 🌱 I’m interested in human centered design
 - 💡 Fun fact: I have a fashion degree!
 
