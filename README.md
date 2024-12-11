@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikki-cupples
+- 💖 Hi, I’m @nikki-cupples
 - 💻 I’m a full-stack software engineer 
 - 🌱 I’m interested in human centered design
 - 💡 Fun fact: I have a fashion degree!
